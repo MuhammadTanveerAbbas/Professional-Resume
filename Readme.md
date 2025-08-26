@@ -9,7 +9,7 @@
 
 ---
 
-# About This Project ✨
+# Overview 🌟
 
 Welcome to **Tanveer’s Minimalist Responsive Resume**! This project is a sleek, modern resume built with **HTML**, **CSS**, and **JavaScript** — fully responsive and designed with simplicity and readability in mind.
 
