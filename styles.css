@@ -65,11 +65,11 @@ html::-webkit-scrollbar {
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme {
-  --title-color: #F2F2F2;
-  --text-color: #BFBFBF;
-  --container-color: #212121;
-  --container-color-alt: #181616;
-  --body-color: #2B2B2B;
+  --title-color: #FFFFFF;         /* Pure white titles for contrast */
+  --text-color: #CCCCCC;          /* Softer gray for readability */
+  --container-color: #111111;     /* Very dark gray for containers */
+  --container-color-alt: #0A0A0A; /* Almost black */
+  --body-color: #000000;          /* Pure black background */
 }
 
 .home__container {
