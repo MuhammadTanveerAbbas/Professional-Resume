@@ -12,9 +12,7 @@
 
 ## 🌟 Overview
 
-Welcome to **Tanveer’s Minimalist Responsive Resume**!  
-This project is a sleek, modern digital resume built using **HTML**, **CSS**, and **JavaScript** fully responsive and crafted for clarity and elegance.  
-
+This project is a sleek, modern digital resume built using **HTML**, **CSS**, and **JavaScript** fully responsive and crafted for clarity and elegance.
 Perfect for showcasing your professional profile in a clean, distraction free format that adapts beautifully to any device. 💼
 
 ---
@@ -24,7 +22,7 @@ Perfect for showcasing your professional profile in a clean, distraction free fo
 - 🎯 **Minimalist Design** clean layout highlighting your professional details  
 - 📱 **Fully Responsive** works seamlessly on desktop, tablet, and mobile  
 - ✨ **Interactive Elements** subtle JS animations for a polished feel  
-- 🌐 **Cross-Browser Compatible** tested across major browsers  
+- 🌐 **Cross Browser Compatible** tested across major browsers  
 - 🧩 **Easy Customization** edit HTML and CSS to tailor your details  
 
 ---
@@ -65,5 +63,21 @@ This project is licensed under the **MIT License**.
 ---
 
 <div align="center">
-  Built with ❤️ by <strong>Muhammad Tanveer Abbas</strong>
+
+# 👨‍💻 Muhammad Tanveer Abbas
+
+**SaaS MVP Developer** • **AI Integration Expert** • **Full Stack Developer**
+
+⚡ Specialized in Building Production Ready SaaS MVPs for founders in Weeks
+
+**Next.js • TypeScript • Firebase • AI • Tailwind CSS**
+
+💼 **[View Portfolio](https://muhammadtanveerabbas.vercel.app/)**
+
+---
+
+⭐ **Star this repo** if you find it inspiring!
+
+Built with ❤️ to showcase professional SaaS MVP development.
+
 </div>
