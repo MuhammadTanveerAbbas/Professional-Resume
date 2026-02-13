@@ -31,7 +31,7 @@ Perfect for showcasing your professional profile in a clean, distraction free fo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/MuhammadTanveerAbbas/Professional-Resume.git
+   git clone https://github.com/muhammadtanveerabbas/Professional-Resume.git
 
 2. **Open the project**
 
@@ -81,3 +81,4 @@ This project is licensed under the **MIT License**.
 Built with ❤️ to showcase professional SaaS MVP development.
 
 </div>
+
