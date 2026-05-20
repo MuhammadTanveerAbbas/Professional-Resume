@@ -560,6 +560,9 @@ img {
 .experience__time {
   padding-right: 1rem;
   min-width: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .education__rounder,
@@ -570,7 +573,6 @@ img {
   height: 16px;
   background-color: var(--text-color-light);
   border-radius: 50%;
-  margin-top: .25rem;
   flex-shrink: 0;
 }
 
@@ -578,9 +580,10 @@ img {
 .experience__line {
   display: block;
   width: 2px;
-  height: 100%;
+  flex: 1;
   background-color: var(--text-color-light);
-  transform: translate(7px, 0);
+  padding-bottom: 1.5rem;
+  margin-bottom: -1.5rem;
 }
 
 .education__data,
