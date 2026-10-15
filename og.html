@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Open Graph share image</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 1200px;
+            height: 630px;
+            overflow: hidden;
+        }
+
+        .card {
+            width: 1200px;
+            height: 630px;
+            background: #FCFCFC;
+            display: flex;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .card__panel {
+            width: 420px;
+            background: #0B0A0A;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card__portrait {
+            width: 320px;
+            height: 320px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 6px solid #FCFCFC;
+        }
+
+        .card__content {
+            flex: 1;
+            padding: 72px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .card__name {
+            font-size: 72px;
+            font-weight: 600;
+            line-height: 1.08;
+            color: #0B0A0A;
+        }
+
+        .card__rule {
+            width: 100%;
+            height: 3px;
+            background: #0B0A0A;
+            margin: 30px 0;
+        }
+
+        .card__role {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 20px;
+            font-weight: 500;
+            color: #403A3A;
+        }
+
+        .card__role-icon {
+            font-size: 26px;
+            color: #0B0A0A;
+        }
+
+        .card__tech {
+            display: flex;
+            gap: 10px;
+            margin-top: 24px;
+        }
+
+        .card__chip {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: #F0EFEF;
+            border-radius: 12px;
+            padding: 10px 15px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #403A3A;
+        }
+
+        .card__chip-icon {
+            font-size: 20px;
+            color: #0B0A0A;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="card">
+        <div class="card__panel">
+            <img src="assets/My%20PFP.png" alt="Portrait of Muhammad Tanveer Abbas" class="card__portrait">
+        </div>
+
+        <div class="card__content">
+            <h1 class="card__name">Muhammad<br>Tanveer Abbas</h1>
+            <div class="card__rule"></div>
+
+            <p class="card__role">
+                <i class="bx bx-briefcase-alt card__role-icon"></i>
+                B2B SaaS Development and AI Native Product Architect
+            </p>
+
+            <div class="card__tech">
+                <span class="card__chip"><i class="bx bx-code-alt card__chip-icon"></i>Next.js</span>
+                <span class="card__chip"><i class="bx bx-code-curly card__chip-icon"></i>TypeScript</span>
+                <span class="card__chip"><i class="bx bx-data card__chip-icon"></i>Supabase</span>
+                <span class="card__chip"><i class="bx bx-bot card__chip-icon"></i>AI</span>
+                <span class="card__chip"><i class="bx bx-search card__chip-icon"></i>SEO</span>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

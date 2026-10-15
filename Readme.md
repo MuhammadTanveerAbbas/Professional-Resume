@@ -66,7 +66,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Muhammad Tanveer Abbas
 
-**SaaS MVP Developer** • **AI Integration Expert** • **Full Stack Developer**
+**B2B SaaS Development** • **AI Integration Expert** • **AI Native Product Architect**
 
 ⚡ Specialized in Building Production Ready SaaS MVPs for founders in Weeks
 

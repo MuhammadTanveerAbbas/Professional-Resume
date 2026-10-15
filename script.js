@@ -79,13 +79,13 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   document.getElementById("download-button").addEventListener("click", () => {
-    const cvUrl = "/assets/CV.pdf";
+    const cvUrl = "/assets/Resume.pdf";
 
     window.open(cvUrl, "_blank");
 
     const link = document.createElement("a");
     link.href = cvUrl;
-    link.download = "CV.pdf";
+    link.download = "Resume.pdf";
 
     document.body.appendChild(link);
     link.click();

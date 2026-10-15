@@ -1,0 +1,56 @@
+# Muhammad Tanveer Abbas
+
+> Muhammad Tanveer Abbas is an AI Native Product Architect focused on B2B SaaS Development, based in Pakistan. He builds production ready SaaS products for startups and businesses in weeks using Next.js, TypeScript, Supabase, and AI. He also has experience in SEO, CRO, and digital marketing.
+
+## Facts
+
+- Name: Muhammad Tanveer Abbas
+- Roles: AI Native Product Architect, B2B SaaS Development
+- Location: Pakistan
+- Email: muhammadtanveerabbas.contact@gmail.com
+- Phone / WhatsApp: +92 305 3078763
+- Languages: Urdu (native), English (fluent)
+
+## Skills
+
+- Next.js, React.js, TypeScript, Node.js, Express.js
+- Tailwind CSS, Shadcn UI
+- Supabase, MongoDB
+- SEO, Conversion Rate Optimization, Digital Marketing
+- Git and GitHub
+
+## Experience
+
+- AI Native Product Architect / B2B SaaS Development (Jan 2025 to Present): building secure, scalable SaaS applications and investor ready MVPs for startups from concept to deployment
+- Website Developer (Jan 2024 to Dec 2024): custom business websites with responsive design, performance optimization, and SEO best practices
+- SEO Specialist (Sep 2023 to Dec 2023): keyword research, on page optimization, and technical SEO to increase search rankings
+
+## Education
+
+- Bachelor of Business Administration (BBA), GC University Faisalabad, 2022 to 2026
+- Course of Computer Fundamentals and Applications, Emerson Tech Institute Faisalabad, 2021 to 2022
+- Intermediate in Economics, Millat College Faisalabad, 2019 to 2021
+
+## Certificates
+
+- AI Fluency: Framework and Foundations, Claude Anthropic
+- Conversion Rate Optimization, Udemy
+- JavaScript Algorithms and Data Structures, freeCodeCamp
+- Digital Marketing, DigiSkills
+
+## Projects
+
+- [Kanbi Board](https://kanbi.vercel.app/): kanban task board app
+- [Clario Summarizer](https://clario-summarizer.vercel.app/): AI document summarizer
+- [Splyt Animation](https://splyt-awwwards-website.vercel.app/): animated marketing website
+- [Nebula Runner](https://nebula-space-runner.vercel.app/): browser game
+- [Aurielle Jewellery](https://aurielle-jewellery.vercel.app/): jewellery e-commerce site
+- [Zestymint Drinks](https://zestymint.vercel.app/): drinks brand website
+
+## Links
+
+- [Portfolio](https://muhammadtanveerabbas.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/muhammadtanveerabbas)
+- [GitHub](https://github.com/muhammadTanveerAbbas)
+- [Resume PDF](https://tanveer-resume.netlify.app/assets/Resume.pdf)
+- [This resume site](https://tanveer-resume.netlify.app/)
